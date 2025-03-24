@@ -1,3 +1,4 @@
+
 package com.fiap.eca.api_marcacao_consultas.repository;
 
 import com.fiap.eca.api_marcacao_consultas.model.Usuario;
