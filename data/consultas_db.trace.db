@@ -1,0 +1,4 @@
+2025-03-24 09:07:38.173881-03:00 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM CONSULTAS \000d\000aESPECIALIDADES [*]USUARIOS"; SQL statement:
+SELECT * FROM CONSULTAS 
+ESPECIALIDADES USUARIOS [42000-232]
