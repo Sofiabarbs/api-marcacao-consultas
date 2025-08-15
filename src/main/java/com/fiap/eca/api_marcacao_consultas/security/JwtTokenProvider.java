@@ -1,4 +1,3 @@
-
 package com.fiap.eca.api_marcacao_consultas.security;
 
 import io.jsonwebtoken.*;

@@ -1,4 +1,3 @@
-
 package com.fiap.eca.api_marcacao_consultas.controller;
 import com.fiap.eca.api_marcacao_consultas.model.Consulta;
 import com.fiap.eca.api_marcacao_consultas.service.ConsultaService;
